@@ -1,0 +1,16 @@
+
+// This is a Gradle build file for OpenRefine that runs the original
+// Ant tasks.  The shell script 'gradlew' can be executed at command line.
+// Thereafter you can do 'gradle clean' 'gradle build', etc.
+// For specific usage, visit
+// https://docs.gradle.org/3.5/userguide/gradle_wrapper.html
+
+
+// We add the Gradle wrapper so folks don't have to install Gradle first.
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.5'
+}
+
+// This allows Gradle to execute the Ant tasks in build.xml as if they were
+// Gradle tasks.  'refine build' becomes 'gradle build', etc.
+ant.importBuild 'build.xml'
