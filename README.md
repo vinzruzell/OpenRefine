@@ -42,15 +42,15 @@ was acquired by Google, Inc. in July 2010 and the product was renamed Google Ref
 In October 2012, it was renamed OpenRefine as it transitioned to a 
 community-supported product.
 
-EMERITUS CREATORS (no longer active but honored for bringing OpenRefine to life)
+EMERITUS CREATORS 
 ---------------------
-
+No longer active but honored for bringing OpenRefine to life
  - David Huynh <dfhuynh@google.com>
  - Stefano Mazzocchi <stefanom@google.com>
  
-EMERITUS CONTRIBUTORS (no longer active but honored here for their previous contributions)
+EMERITUS CONTRIBUTORS 
 ---------------------
-
+No longer active but honored here for their previous contributions
  - Vishal Talwar <vtalwar@google.com> 
  - Jeff Fry <jfry@google.com>
  - Will Moffat <wdm@google.com>
